@@ -21,10 +21,10 @@ Archivo `spec.yaml` Para verlo mejor, puede copiarlo y abrirlo con [Swagger](htt
 
 ## Instalación ⚙
 
-Clonar el repositorio de [GitHub](https://github.com/camilobr1/data_warehouse.git)
+Clonar el repositorio de [GitHub](https://github.com/camilobr1/DataWareHouseCamiloBravi.git)
 
 ```
-git clone https://github.com/camilobr1/data_warehouse.git
+git clone https://github.com/camilobr1/DataWareHouseCamiloBravi.git
 ```
 
 ## Dependencias 🟢
@@ -74,4 +74,4 @@ npm run dev
 
 ## Repositorio 
 
-- [GitHub](https://github.com/camilobr1/data_warehouse.git)
+- [GitHub](https://github.com/camilobr1/DataWareHouseCamiloBravi.git)
